@@ -6,7 +6,7 @@ current = game.Players.LocalPlayer.Name
 
 if string.find(usernames,current) then
 print("Thanks for purchase! Enjoy")
-loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/notmytypeoflamp/paid-gui/main/sheh"))()"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notmytypeoflamp/paid-gui/main/sheh"))()
 local msg = "Username logged ``" .. game.Players.LocalPlayer.Name .. "`` executed user is whitelisted"
 local url = "https://discord.com/api/webhooks/864242301979328512/KRKRgV0qsEusDqk2Rl-9DejrZOBUEoOiVchkYttFB641t5CNsNaWToFOPeeoaslX0E6t"
 
